@@ -1,0 +1,22 @@
+.nav-list{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-link.active{
+    color: rgb(5, 5, 40);
+    font-weight: bolder;
+    font-size: large;
+}
+
+.list-item{
+    list-style-type: none;
+    padding: 15px 0;
+}
+
+.nav-link{
+    display: block;
+    text-decoration: none;
+     color: #ffff;
+     font-weight: 600;
+}

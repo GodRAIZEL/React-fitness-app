@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.side-bar{
+    background-color:rgb(54, 54, 127);
+    width: 200px;
+    min-height: 100vh;
+    padding: 10px 10px;
+}
+

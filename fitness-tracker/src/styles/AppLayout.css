@@ -1,0 +1,9 @@
+.app-layout{
+    display: flex;
+}
+
+.main-content{
+    flex: 1;
+    padding: 10px 20px;
+    background-color: rgb(26, 26, 58);
+}
